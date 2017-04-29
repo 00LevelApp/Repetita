@@ -1,0 +1,9 @@
+[0421/193635.226:ERROR:process_reader_win.cc(142)] SuspendThread: Accesso negato. (0x5)
+[0421/193635.229:ERROR:process_reader_win.cc(114)] NtOpenThread: ID del client specificato non valido.  (0xc000000b)
+[0421/193635.230:ERROR:process_reader_win.cc(142)] SuspendThread: Accesso negato. (0x5)
+[0421/193635.230:ERROR:process_reader_win.cc(142)] SuspendThread: Accesso negato. (0x5)
+[0421/193635.230:ERROR:process_reader_win.cc(142)] SuspendThread: Accesso negato. (0x5)
+[0421/193635.230:ERROR:process_reader_win.cc(114)] NtOpenThread: ID del client specificato non valido.  (0xc000000b)
+[0421/193635.230:ERROR:process_reader_win.cc(114)] NtOpenThread: ID del client specificato non valido.  (0xc000000b)
+[0421/193635.230:ERROR:exception_snapshot_win.cc(87)] thread ID 604 not found in process
+[0421/193635.230:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
